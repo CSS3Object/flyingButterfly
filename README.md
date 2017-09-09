@@ -4,7 +4,7 @@
 
 ![](images/img.gif)
 
-HTML代码:fdfdfdsfdsf
+HTML代码:
 
 ```
 <!DOCTYPE html>
