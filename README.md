@@ -1,7 +1,7 @@
 # 飞舞的蝴蝶flyingButterfly
 
 效果如下
-ggfgf
+
 ![](images/img.gif)
 
 HTML代码:
